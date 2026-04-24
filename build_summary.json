@@ -1,0 +1,131 @@
+{
+  "total_products": 6823,
+  "total_techniques": 2178,
+  "categories": {
+    "01_Web服务器类": {
+      "products": 44,
+      "techniques": 0,
+      "description": "Apache、Nginx、IIS、Tomcat、WebLogic、WebSphere、JBoss 等 Web 服务器漏洞"
+    },
+    "02_数据库类": {
+      "products": 34,
+      "techniques": 0,
+      "description": "MySQL、PostgreSQL、Oracle、MSSQL、Redis、MongoDB、Elasticsearch 等数据库漏洞"
+    },
+    "03_CMS内容管理系统": {
+      "products": 2958,
+      "techniques": 0,
+      "description": "WordPress、Drupal、Joomla、织梦CMS、帝国CMS、Z-Blog、Discuz 等 CMS 漏洞"
+    },
+    "04_企业应用与ERP": {
+      "products": 220,
+      "techniques": 0,
+      "description": "用友、金蝶、泛微、致远、SAP、Oracle EBS、蓝凌、通达OA 等企业应用漏洞"
+    },
+    "05_开发框架与语言": {
+      "products": 773,
+      "techniques": 0,
+      "description": "ThinkPHP、Laravel、Spring、Flask、Django、FastAPI、Express 等开发框架漏洞"
+    },
+    "06_安全设备与VPN": {
+      "products": 144,
+      "techniques": 0,
+      "description": "深信服、奇安信、绿盟、启明星辰、飞塔、PaloAlto、Citrix 等安全设备漏洞"
+    },
+    "07_网络设备": {
+      "products": 24,
+      "techniques": 0,
+      "description": "Cisco、华为、H3C、Juniper、锐捷、中兴、TP-Link 等网络设备漏洞"
+    },
+    "08_云与虚拟化": {
+      "products": 51,
+      "techniques": 0,
+      "description": "VMware、Docker、Kubernetes、OpenStack、阿里云、腾讯云、华为云等漏洞"
+    },
+    "09_中间件与消息队列": {
+      "products": 36,
+      "techniques": 0,
+      "description": "RabbitMQ、ActiveMQ、Kafka、Nacos、Zookeeper、Consul 等中间件漏洞"
+    },
+    "10_监控与运维": {
+      "products": 22,
+      "techniques": 0,
+      "description": "Zabbix、Nagios、Prometheus、Grafana、Splunk、SolarWinds 等运维工具漏洞"
+    },
+    "11_存储与备份": {
+      "products": 28,
+      "techniques": 0,
+      "description": "NAS、QNAP、Synology、Nextcloud、ownCloud、MinIO 等存储系统漏洞"
+    },
+    "12_物联网与工控": {
+      "products": 56,
+      "techniques": 0,
+      "description": "摄像头、DVR、NVR、SCADA、PLC 等物联网与工控系统漏洞"
+    },
+    "13_移动端与App": {
+      "products": 119,
+      "techniques": 0,
+      "description": "Android、iOS、移动框架、微信小程序等移动端漏洞"
+    },
+    "14_操作系统与基础设施": {
+      "products": 1213,
+      "techniques": 0,
+      "description": "Windows、Linux、macOS、SSH、RDP、FTP、SMB 等操作系统与基础设施漏洞"
+    },
+    "15_邮件系统": {
+      "products": 40,
+      "techniques": 0,
+      "description": "Exchange、Zimbra、Roundcube、Postfix 等邮件系统漏洞"
+    },
+    "16_源代码管理与CI/CD": {
+      "products": 27,
+      "techniques": 0,
+      "description": "GitLab、GitHub、Jenkins、Git、SVN、SonarQube 等代码管理与 CI/CD 工具漏洞"
+    },
+    "17_大数据与AI": {
+      "products": 54,
+      "techniques": 0,
+      "description": "Hadoop、Spark、Flink、TensorFlow、PyTorch 等大数据与AI平台漏洞"
+    },
+    "18_通用Web漏洞专题": {
+      "products": 359,
+      "techniques": 2178,
+      "description": "SQL注入、XSS、CSRF、SSRF、文件上传、文件包含、命令注入等通用Web漏洞"
+    },
+    "19_认证与授权漏洞": {
+      "products": 60,
+      "techniques": 0,
+      "description": "越权、JWT、OAuth、SAML、弱密码、未授权访问、权限提升等"
+    },
+    "20_协议层漏洞": {
+      "products": 402,
+      "techniques": 0,
+      "description": "HTTP头注入、WebSocket、GraphQL、gRPC、DNS、TLS/SSL 等协议漏洞"
+    },
+    "21_供应链与第三方组件": {
+      "products": 18,
+      "techniques": 0,
+      "description": "Log4j、Struts2、Shiro、FastJSON、Jackson、OpenSSL 等供应链组件漏洞"
+    },
+    "22_加密与证书": {
+      "products": 6,
+      "techniques": 0,
+      "description": "Heartbleed、证书验证绕过、弱加密算法、Padding Oracle 等"
+    },
+    "23_勒索软件与恶意软件": {
+      "products": 8,
+      "techniques": 0,
+      "description": "已知勒索软件利用的漏洞、C2 相关、RAT 远控等"
+    },
+    "24_路由器与智能家居": {
+      "products": 123,
+      "techniques": 0,
+      "description": "小米、华为路由、TP-Link、D-Link、Netgear、智能音箱等家用设备漏洞"
+    },
+    "25_国产化信创": {
+      "products": 4,
+      "techniques": 0,
+      "description": "麒麟OS、统信UOS、达梦数据库、人大金仓、东方通等信创产品漏洞"
+    }
+  }
+}
